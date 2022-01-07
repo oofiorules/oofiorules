@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @oofiorules
-- 👀 I’m interested in game hacks
-- 🌱 I’m currently learning how to create esp for EFT
-- 💞️ I’m looking to collaborate on game cheats
-- 📫 How to reach me GIGA-RAT#7933
+I’m @oofiorules
+I'm learning how to create game cheats.
+My end goal is to make an sell a good menu for eft.
+
 
